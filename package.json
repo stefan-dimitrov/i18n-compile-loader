@@ -1,0 +1,30 @@
+{
+  "name": "i18n-compile-loader",
+  "version": "0.1.0",
+  "description": "Webpack loader for converting language-merged YAML input files into json translations.",
+  "homepage": "https://github.com/stefan-dimitrov/i18n-compile-loader",
+  "repository": "https://github.com/stefan-dimitrov/i18n-compile-loader.git",
+  "bugs": "https://github.com/stefan-dimitrov/i18n-compile-loader/issues",
+  "author": {
+    "name": "Stefan Dimitrov",
+    "email": "stefan.dimitrov.009@gmail.com",
+    "url": "https://github.com/stefan-dimitrov"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "i18n",
+    "i18next",
+    "angular",
+    "translate",
+    "translation",
+    "assemble",
+    "compile",
+    "yaml",
+    "json"
+  ],
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
